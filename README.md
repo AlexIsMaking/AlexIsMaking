@@ -14,7 +14,7 @@
 
 **Cloud Servers**  
 
-[![My Skills](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=vercel,gcp)](https://skillicons.dev)  
 
 **Tools**  
 
