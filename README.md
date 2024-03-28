@@ -18,4 +18,4 @@
 
 **Tools**  
 
-[![My Skills](https://skillicons.dev/icons?i=notion,vscode,npm,postman,figma,webflow)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=vscode,npm,postman,notion,figma,webflow)](https://skillicons.dev)  
