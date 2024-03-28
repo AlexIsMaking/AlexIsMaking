@@ -2,7 +2,7 @@
 ---
 **Frontend**  
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,tailwind,md)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,tailwind,md,webflow)](https://skillicons.dev)  
 
 **Backend**  
 
@@ -18,4 +18,4 @@
 
 **Tools**  
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,npm,postman,notion,figma,webflow)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=vscode,npm,postman,notion,figma)](https://skillicons.dev)  
