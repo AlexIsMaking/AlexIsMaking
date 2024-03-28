@@ -2,7 +2,7 @@
 ---
 **Frontend**  
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,tailwind,)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,tailwind,md)](https://skillicons.dev)  
 
 **Backend**  
 
