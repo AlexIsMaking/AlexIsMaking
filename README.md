@@ -1,5 +1,4 @@
 ## Languages and Tools
----
 **Frontend**  
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,tailwind,md,webflow)](https://skillicons.dev)  
