@@ -37,5 +37,6 @@
 
 - Cal.com
 - Format JSON
+- Ghostty
 - Notion
 - Resend
